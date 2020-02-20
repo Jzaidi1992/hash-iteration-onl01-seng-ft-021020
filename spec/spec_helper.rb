@@ -1,6 +1,7 @@
 
 
 
+
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
   end
@@ -13,3 +14,4 @@ RSpec.configure do |config|
     mocks.verify_partial_doubles = true
   end
 end
+© 2020 GitHub, Inc.
